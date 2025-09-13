@@ -338,10 +338,6 @@ We welcome contributions to make this learning series even better! Here's how yo
 4. Push to the branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ### What this means:
 - ✅ **Free to use** for personal and commercial projects
 - ✅ **Free to modify** and distribute
@@ -354,17 +350,13 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 **Bhoomi Shakya**
 - 📧 Email: [bhoomi.shakya@gmail.com](mailto:bhoomi.shakya@gmail.com)
 - 💼 LinkedIn: [linkedin.com/in/bhoomi-shakya](https://linkedin.com/in/bhoomi-shakya)
-- 🐙 GitHub: [@yourusername](https://github.com/yourusername)
+- 🐙 GitHub: [Github]([https://github.com/yourusername](https://github.com/BhoomiShakya))
 
 ### 💬 Community
 - 💬 **Discussions**: Use GitHub Discussions for questions and community interaction
 - 🐛 **Issues**: Report bugs or request features via GitHub Issues
 - 📖 **Wiki**: Check the Wiki for additional resources and FAQs
 
-### 🌟 Acknowledgments
-- Thanks to all contributors who help improve this learning series
-- Special thanks to the open-source community for the amazing tools and libraries
-- Dataset providers and the broader data science community
 
 ---
 
@@ -377,23 +369,6 @@ This repository follows a **learn-by-doing** approach:
 3. **🌍 Real-World Focus**: All examples use realistic datasets and practical scenarios
 4. **🛠️ Industry Standards**: Uses professional tools and follows best practices
 5. **📊 Measurable Progress**: Clear learning outcomes and skill assessments
-
-## 🚀 Future Roadmap
-
-### Short Term (Next 3 months)
-- Complete Machine Learning Algorithms module
-- Add model evaluation and validation techniques
-- Include hyperparameter tuning
-
-### Medium Term (3-6 months)
-- Deep Learning fundamentals
-- Computer Vision basics
-- Natural Language Processing introduction
-
-### Long Term (6+ months)
-- Advanced deep learning architectures
-- Model deployment and MLOps
-- Specialized domains (time series, recommendation systems)
 
 ---
 
